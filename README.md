@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 # Images that change over time:
 
 You are not number one, you are number:
-[!0001](https://www.counter12.com/img-CY00YDzA29753x14-68.gif)
+![Image](https://www.counter12.com/img-CY00YDzA29753x14-68.gif)
 
 <!--<div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-CY00YDzA29753x14-68.gif' border='0' alt='web counter free'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=CY00YDzA29753x14'></script><br><a href='https://meuip.page/qual-e-o-meu-ip/' target='_blank'><img src='https://img.meuip.page/selo-478A16ZZ5b1yAYYD.gif' alt='qual meu ip?' border='0'></a></div> -->
