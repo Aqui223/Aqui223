@@ -1,4 +1,4 @@
-## Hallo 👋
+# Hallo 👋
 Was machst du hier? Überdenke deine Entschiedungen.
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Three dots (aka ellipsis) is a separate special character that nobody uses...
 -->
 
-# Images that change over time:
+## Images that change over time:
 
 You are not number one, you are number:
 ![Image](https://www.counter12.com/img-CY00YDzA29753x14-68.gif)
